@@ -1,19 +1,21 @@
-# Hello!
+# Hello internet stranger!
 
-My Name is Frederic Köberl and I currently work as a Front-End Developer at @Dynatrace.
+My Name is Frederic Köberl and I currently work as a Front-End Developer at [@Dynatrace](https://github.com/Dynatrace).
 
-## Things that I 
-* Nuxt / Vue
-* Laravel
-* Craft CMS
-* Sketch
+Here is a random photo from my Unsplash. Enjoy!
 
-## You also can find me on this platforms:  
-[Unsplash](https://unsplash.com/@internetztube)  
-[Twitter](https://twitter.com/internetztube)  
-[LinkedIn](https://linkedin.com/koeberl)   
+<a href="https://unsplash.com/internetztube">
+<img src="https://source.unsplash.com/user/internetztube" alt="random Unsplash photo" />
+</a>
 
+<br /><br />
 
-## Wanna talk?
-[Telegram](https://telegram.me/internetztube)  
+[Unsplash](https://unsplash.com/@internetztube)
+&nbsp;·&nbsp;
+[Twitter](https://twitter.com/internetztube)
+&nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/koeberl)
+&nbsp;·&nbsp;
+[Telegram](https://telegram.me/internetztube)
+&nbsp;·&nbsp;
 [eMail](mailto:please-no-spam--thanks@frederickoeberl.com)

@@ -14,7 +14,7 @@ Here is a random photo from my Unsplash. Enjoy!
 &nbsp;·&nbsp;
 [Twitter](https://twitter.com/internetztube)
 &nbsp;·&nbsp;
-[LinkedIn](https://linkedin.com/koeberl)
+[LinkedIn](https://linkedin.com/in/koeberl)
 &nbsp;·&nbsp;
 [Telegram](https://telegram.me/internetztube)
 &nbsp;·&nbsp;

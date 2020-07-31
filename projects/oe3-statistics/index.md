@@ -64,4 +64,4 @@ Stv. Ö3-Senderchef - Leitung Neue Medien & Administration
 <a target="_blank" href="http://www.thegap.at/musikstories/artikel/7-fakten-zur-hitradio-oe3-sendestatistik/">
 <div>7 Fakten zur Hitradio Ö3 Sendestatistik</div>
 </a>
-<div>7 Fakten zur Hitradio Ö3 Sendestatistik</div>
+<div>von Pia Gärtner, Stefan Niederwieser</div>

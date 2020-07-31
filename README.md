@@ -1,6 +1,10 @@
 <div id="content-start"></div>
 
+<img src="https://assets.codepen.io/197832/Artboard.svg?=yolo" />
+
+
 # Hello internet stranger!
+
 
 My Name is Frederic Köberl and I currently work as a Front-End Developer at [@Dynatrace](https://github.com/Dynatrace) in [Linz, Austria](https://www.google.com/maps/place/Linz/).
 

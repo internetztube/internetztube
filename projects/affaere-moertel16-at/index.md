@@ -179,13 +179,13 @@ Wer <i>moertel.at</i> noch nicht gesehen hat kann sich entweder die Seite von Gi
 --- 
 Wenn noch Fragen bestehen sollten, dann diese bitte an <a href="mailto:frederic.koeber+moertel@gmail.com">frederic.koeberl@gmail.com</a>.
 
-<a href="./fragen.mp3" target="_blank">Sound</a>
+<a href="https://raw.githubusercontent.com/internetztube/internetztube/master/projects/affaere-moertel16-at/fragen.mp3" target="_blank">Sound</a>
 
 --- 
 
 **Frederic Köberl**: "Wen würden Sie beauftragen um wieder eine Satire-Seite offline zu nehmen?"
 
-**Richard Lugner**: <a href="./niemanden.mp3" target="_blank">Sound</a>
+**Richard Lugner**: <a href="https://raw.githubusercontent.com/internetztube/internetztube/master/projects/affaere-moertel16-at/niemanden.mp3" target="_blank">Sound</a>
 
 ---
 

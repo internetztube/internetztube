@@ -10,8 +10,7 @@ Wie oft wiederholen sich die Songs beim Ö3?
 
 
 <div align="center">
-<a href="https://www.flickr.com/photos/roman581/5253603015/" class="c-link--inverted hero-bottomLink hero-bottomLink--left" target="_blank">
-picture by Roman Pfeiffer
+picture by <a href="https://www.flickr.com/photos/roman581/5253603015/" class="c-link--inverted hero-bottomLink hero-bottomLink--left" target="_blank">Roman Pfeiffer
 </a>nbsp;·&nbsp;CC BY-ND 2.0
 </div>
 <br /><br />

@@ -28,7 +28,7 @@ factory300 @ Tabakfabrik Linz<br>
 
 ## Slides
 
-<a href="https://example.com">
+<a href="https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks.pdf">
 <img src="https://assets.codepen.io/197832/hacker-slide.png" />
 hacker-hassen-diese-tricks.pdf
 </a>

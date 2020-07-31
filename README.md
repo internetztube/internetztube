@@ -2,15 +2,7 @@
 
 <img src="https://assets.codepen.io/197832/Artboard.svg?=yolo" />
 
-| Projects | Talks |  
-|-|-|
-| [Affäre moertel16.at (German)](https://github.com/internetztube/internetztube/blob/master/projects/moertel16-at.md) | [Hacker hassen diese Tricks! (German)](https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks.md) | 
-[Ö3 Statistic Statement (German)](https://github.com/internetztube/internetztube/blob/master/projects/oe3-statistics.md) |
-
-
-
 # Hello internet stranger!
-
 
 My Name is Frederic Köberl and I currently work as a Front-End Developer at [@Dynatrace](https://github.com/Dynatrace) in [Linz, Austria](https://www.google.com/maps/place/Linz/).
 
@@ -21,7 +13,7 @@ Here is a random photo from my Unsplash. Enjoy!
 <img src="https://source.unsplash.com/user/internetztube" alt="random Unsplash photo" />
 </a>
 
-<br /><br />
+<br />
 
 [Unsplash](https://unsplash.com/@internetztube)
 &nbsp;·&nbsp;
@@ -32,3 +24,11 @@ Here is a random photo from my Unsplash. Enjoy!
 [Telegram](https://telegram.me/internetztube)
 &nbsp;·&nbsp;
 [eMail](mailto:please-no-spam--thanks@frederickoeberl.com)
+
+<br />
+
+| Projects | Talks |  
+|-|-|
+| [Affäre moertel16.at (German)](https://github.com/internetztube/internetztube/blob/master/projects/moertel16-at.md#content-start) | [Hacker hassen diese Tricks! (German)](https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks.md#content-start) | 
+[Ö3 Statistic Statement (German)](https://github.com/internetztube/internetztube/blob/master/projects/oe3-statistics.md#content-start) |
+

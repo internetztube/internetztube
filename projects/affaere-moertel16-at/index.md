@@ -1,12 +1,12 @@
 <div id="content-start"></div>
 
-<img src="https://assets.codepen.io/197832/Artboard.svg?cache" />
+<img src="../../slogan.svg" />
 
 ## Affäre moertel16.at
 
 Warum ist die Satire-Seite über den Bundespräsidentschaftskandidaten Richard Lugner offline gegangen?
 
-<img src="https://assets.codepen.io/197832/hofburg-kirk-siang.jpg" />
+<img src="./hero.jpg" />
 
 <div align="center">
 picture by <a href="https://www.flickr.com/photos/kirksiang/6116479534/">Kirk Siang</a>&nbsp;·&nbsp;CC BY-NC-ND 2.0
@@ -22,7 +22,7 @@ Nach jetzt doch fast 6 Wochen nachdem die Seite offline gegangen ist, gebe ich h
 
 Ich habe die Domain am 11.02.16 gekauft und etwa drei Tage danach ist die eigentliche Webseite online gegangen. Die Reaktionen haben nicht lange auf sich warten lassen und so sind in den darauffolgenden drei Tagen vier Medienberichte und rund 18.000 Seitenaufrufe zusammengekommen. Im Großen und Ganzen kann man also sagen, dass die Seite doch einige Leute erreicht hat.
 
-![Google Analytics](https://assets.codepen.io/197832/moertel-analytics.png)
+![Google Analytics](./moertel-analytics.png)
 
 <div align="center">
 moertel16.at - Google Analytics&nbsp;·&nbsp;Quelle: Internet
@@ -52,7 +52,7 @@ Robert Urban
 Nicht nur, dass der werte Herr Urban meinen Nachnamen falsch geschrieben hat, auch hatte dieser wahrscheinlich auch nicht die Absicht eine Antwort zu erhalten. Wenn man sich den Header von der E-Mail einmal etwas genauer ansieht, dann bemerkt man schnell, dass diese nicht von einem Apple-Server, sondern von einem Server bei msedv.at versandt worden ist.
 
 
-<img src="https://assets.codepen.io/197832/mail-header.svg?cache" />
+<img src="./mail-header.svg" />
 
 Kurzerhand habe mich auf die Webseite von msedv.at begeben und mich da etwas genauer umgesehen. &lt;ironie&gt;Neben den supermodernen, einzigartigen und bestimmt auch super sicheren Tools wie einem <a href="https://www.msedv.at/tools/cctest/" target="_blank">Kreditkartenchecker</a> oder einem <a href="https://www.msedv.at/tools/passwortgenerator/" target="_blank">Passwortgenerator</a>&lt;/ironie&gt; bin ich auch auf das Impressum gestoßen. In diesem steht drinnen, dass ein Herr "Dipl.-Ing. Markus Schwaiger" dieses Unternehmen führt.
 
@@ -77,7 +77,7 @@ Frederic Köberl
 
 ---
 
-<img src="https://assets.codepen.io/197832/moertel-website.png" />
+<img src="./moertel-website.png" />
 
 <div align="center">
 moertel16.at&nbsp;·&nbsp;Quelle: Internet
@@ -125,7 +125,7 @@ Beim Registrieren der Domain war ich mir unsicher, ob ich mich als Privatperson 
 Hier im Screenshot sieht man die Daten, die ich bei der Anmeldung angegeben habe.
 
 
-<img src="https://assets.codepen.io/197832/moertel-whois.png" />
+<img src="./moertel-whois.png" />
 <div align="center">
 whois moertel16.at&nbsp;·&nbsp;Quelle: <a href="https://webm.rrerr.net/#DNS" target="_blank">DNS</a>
 </div>
@@ -179,13 +179,13 @@ Wer <i>moertel.at</i> noch nicht gesehen hat kann sich entweder die Seite von Gi
 --- 
 Wenn noch Fragen bestehen sollten, dann diese bitte an <a href="mailto:frederic.koeber+moertel@gmail.com">frederic.koeberl@gmail.com</a>.
 
-<a href="https://assets.codepen.io/197832/fragen.mp3" target="_blank">Sound</a>
+<a href="./fragen.mp3" target="_blank">Sound</a>
 
 --- 
 
 **Frederic Köberl**: "Wen würden Sie beauftragen um wieder eine Satire-Seite offline zu nehmen?"
 
-**Richard Lugner**: <a href="https://assets.codepen.io/197832/niemanden.mp3" target="_blank">Sound</a>
+**Richard Lugner**: <a href="./niemanden.mp3" target="_blank">Sound</a>
 
 ---
 

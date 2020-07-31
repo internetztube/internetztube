@@ -1,12 +1,12 @@
 <div id="content-start"></div>
 
-<img src="https://assets.codepen.io/197832/Artboard.svg?cache" />
+<img src="../../slogan.svg" />
 
 # Hacker hassen diese Tricks!
 
 Ein Guide zum Schutz gegen Cyberkriminalität.
 
-<img src="https://source.unsplash.com/XJXWbfSo2f0/920" />
+<img src="./hero.jpeg" />
 
 <div align="center">
 picture by <a href="https://unsplash.com/photos/XJXWbfSo2f0/">Luca Bravo</a>&nbsp;·&nbsp;CC0
@@ -28,8 +28,8 @@ factory300 @ Tabakfabrik Linz<br>
 
 ## Slides
 
-<a href="https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks.pdf">
-<img src="https://assets.codepen.io/197832/hacker-slide.png" />
+<a href="./slides.pdf">
+<img src="./slides-thumbnail.png" />
 hacker-hassen-diese-tricks.pdf
 </a>
 

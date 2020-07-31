@@ -1,12 +1,12 @@
 <div id="content-start"></div>
 
-<img src="https://assets.codepen.io/197832/Artboard.svg?cache" />
+<img src="../../slogan.svg" />
 
 ## Ö3 Statistik
 
 Wie oft wiederholen sich die Songs beim Ö3?
 
-<img src="https://assets.codepen.io/197832/oe3-roman-pfeiffer.jpg" />
+<img src="hero.jpg" />
 
 
 <div align="center">

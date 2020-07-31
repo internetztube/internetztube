@@ -91,7 +91,7 @@ Natürlich sind €10.000,- eine Menge Geld, wollte aber gegenüber dem Herrn Ur
 Mich hat dennoch verwundert, dass die E-Mail trotz des getürkten Headers von der ursprünglichen E-Mail nicht abgewiesen wurde. Ergo, die E-Mail muss rein theoretisch angekommen sein, ganz sicher kann man aber nicht sein.
 Eine Antwort habe ich bis zum heutigen Tage nicht erhalten.
 
-## $ whois moertel16.at
+# $ whois moertel16.at
 
 Die Zeit ist ins Land gezogen und ich habe die Seite nach der Zeit aus den Augen verloren. Doch als auf einmal die Seite offline gegangen ist, war die Thematik wieder am Tisch.
 

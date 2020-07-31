@@ -15,6 +15,12 @@ Here is a random photo from my Unsplash. Enjoy!
 
 <br /><br />
 
+
+**Projects**:&nbsp;[Affäre moertel16.at (German)](https://github.com/internetztube/internetztube/blob/master/projects/moertel16-at.md#content-start)&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;[Ö3 Statistic Statement (German)](https://github.com/internetztube/internetztube/blob/master/projects/oe3-statistics.md#content-start)<br />
+**Talks**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hacker hassen diese Tricks! (German)](https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks.md#content-start)
+
+<br />
+
 [Unsplash](https://unsplash.com/@internetztube)
 &nbsp;·&nbsp;
 [Twitter](https://twitter.com/internetztube)
@@ -25,7 +31,3 @@ Here is a random photo from my Unsplash. Enjoy!
 &nbsp;·&nbsp;
 [eMail](mailto:please-no-spam--thanks@frederickoeberl.com)
 
-<br /><br />
-
-**Projects**:&nbsp;[Affäre moertel16.at (German)](https://github.com/internetztube/internetztube/blob/master/projects/moertel16-at.md#content-start)&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;[Ö3 Statistic Statement (German)](https://github.com/internetztube/internetztube/blob/master/projects/oe3-statistics.md#content-start)<br />
-**Talks**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hacker hassen diese Tricks! (German)](https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks.md#content-start)

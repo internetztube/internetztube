@@ -1,7 +1,7 @@
 <div id="content-start"></div>
 
 <a href="https://github.com/internetztube/internetztube/blob/master/README.md#content-start">
-<img src="../../slogan.svg" />
+<img src="https://raw.githubusercontent.com/internetztube/internetztube/master/slogan.svg" />
 </a>
 
 ## Affäre moertel16.at

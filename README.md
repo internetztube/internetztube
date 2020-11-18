@@ -12,7 +12,7 @@ Here is a random photo from my Unsplash. Enjoy!
 <img src="https://source.unsplash.com/user/internetztube" alt="random Unsplash photo" />
 </a>
 
-<br /><br />
+<br />
 
 [Unsplash](https://unsplash.com/@internetztube)
 &nbsp;·&nbsp;

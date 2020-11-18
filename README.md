@@ -1,8 +1,5 @@
 <div id="content-start"></div>
 
-<a href="https://github.com/internetztube/internetztube/blob/master/README.md#content-start">
-<img src="https://raw.githubusercontent.com/internetztube/internetztube/master/slogan.svg" />
-</a>
 
 # Hello internet stranger!
 
@@ -16,12 +13,6 @@ Here is a random photo from my Unsplash. Enjoy!
 </a>
 
 <br /><br />
-
-
-**Projects**:&nbsp; [Affäre moertel16.at (German)](https://github.com/internetztube/internetztube/blob/master/projects/affaere-moertel16-at/index.md#content-start) &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp; [Ö3 Statistic Statement (German)](https://github.com/internetztube/internetztube/blob/master/projects/oe3-statistics/index.md#content-start) <br />
-**Talks**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hacker hassen diese Tricks! (German)](https://github.com/internetztube/internetztube/blob/master/talks/hacker-hassen-diese-tricks/index.md#content-start)
-
-<br />
 
 [Unsplash](https://unsplash.com/@internetztube)
 &nbsp;·&nbsp;

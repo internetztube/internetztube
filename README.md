@@ -3,7 +3,7 @@
 
 # Hello internet stranger!
 
-My Name is Frederic Köberl and I currently work as a Front-End Developer at [@Dynatrace](https://github.com/Dynatrace) in [Linz, Austria](https://www.google.com/maps/place/Linz/).
+My Name is Frederic Köberl and I currently work as a Full Stack Web Developer at [@Dynatrace](https://github.com/Dynatrace) in [Linz, Austria](https://www.google.com/maps/place/Linz/).
 
 
 Here is a random photo from my Unsplash. Enjoy!

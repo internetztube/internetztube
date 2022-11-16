@@ -14,13 +14,14 @@ Here is a random photo from my Unsplash. Enjoy!
 
 <br />
 
-[Unsplash](https://unsplash.com/@internetztube)
+<a href="https://unsplash.com/@internetztube" target="_blank">Unsplash</a>
 &nbsp;·&nbsp;
-[Twitter](https://twitter.com/internetztube)
+<a href="https://twitter.com/internetztube" target="_blank">Twitter</a>
 &nbsp;·&nbsp;
-[LinkedIn](https://linkedin.com/in/koeberl)
+<a href="https://linkedin.com/in/koeberl" target="_blank">LinkedIn</a>
 &nbsp;·&nbsp;
-[Telegram](https://telegram.me/internetztube)
+<a href="https://telegram.me/internetztube" target="_blank">Telegram</a>
 &nbsp;·&nbsp;
-[eMail](mailto:please-no-spam--thanks@frederickoeberl.com)
-
+<a rel="me" href="https://pounced-on.me/@internetztube" target="_blank">Mastodon</a>
+&nbsp;·&nbsp;
+<a href="mailto:please-no-spam--thanks@frederickoeberl.com" target="_blank">eMail</a>

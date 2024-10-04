@@ -9,7 +9,7 @@ My Name is Frederic Köberl and I currently work as a Principal Web Developer at
 Here is a random photo from my Unsplash. Enjoy!
 
 <a href="https://unsplash.com/internetztube" target="_blank">
-<img src="https://source.unsplash.com/user/internetztube?1" alt="random Unsplash photo" />
+<img src="https://unsplash.internetztube.net/internetztube/full" alt="random Unsplash photo" />
 </a>
 
 <br />
